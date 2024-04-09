@@ -1,0 +1,2 @@
+# azateixscripts
+All my scripts
