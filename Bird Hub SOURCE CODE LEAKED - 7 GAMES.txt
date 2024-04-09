@@ -1,3 +1,6 @@
+-- Take that and go away:)
+-- More info : https://robloxscripts.com/bird-hub-source-code-leaked-7-games/
+
 if game.PlaceId == 6783611814 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/broreallyplayingthisgame/Bird-Hub-Source/main/buildaboattosurvive.lua"))()
 end
