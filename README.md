@@ -10,3 +10,5 @@ I take safety seriously, I don't log anything, no ip, no hwid, no roblox users, 
 
 ## Bugs
 Found a bug? Contact me on discord : azaw
+
+![image](https://github.com/Azateix/azateixscripts/assets/86782048/06255d50-e5d0-472c-a163-4ff1ac9be44c)
