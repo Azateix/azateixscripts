@@ -8,6 +8,11 @@ Just don't say you made it.
 ## Safety
 I take safety seriously, I don't log anything, no ip, no hwid, no roblox users, you can desobfuscate the code, I don't have any problems with that.
 
+## Loadstrings
+
+Disaster Island : loadstring(game:HttpGet("https://raw.githubusercontent.com/Azateix/azateixscripts/main/Disaster%20Island%20Pooper.lua"))()
+
+
 ## Bugs
 Found a bug? Contact me on discord : azaw
 
